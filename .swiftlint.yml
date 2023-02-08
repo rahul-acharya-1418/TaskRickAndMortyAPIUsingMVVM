@@ -1,0 +1,13 @@
+disabled_rules:
+  - vertical_whitespace
+  - trailing_whitespace
+  - opening_brace
+  - statement_position
+  - unused_optional_binding
+
+excluded:
+  - Pods
+
+line_length:
+  - 180
+  - 200
